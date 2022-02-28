@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robby.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning JavaScript, and SQL.
+- 🌱 I’m currently learning JavaScript, and React.
 - 💞️ I’m looking to collaborate on beginner/intermediate JavaScript projects.
 - 📫 How to reach me: robbyt513@hotmail.com
 
